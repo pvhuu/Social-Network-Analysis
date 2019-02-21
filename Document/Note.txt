@@ -1,0 +1,34 @@
+- 3 Main Aspects
+	+Social Media APIs
+	+Data Minning Techniques
+	+Python tools for data science
+-Requirements
+	+Python 3.4+
+	+NumPy
+	+pandas
+	+matplotilb
+	+scikit-learn
+	+nltk
+	+networkl
+-Social Media is used for:
+	+Staying in touch(Ex:Facebook)
+	+Microblogging(Twitter)
+	+Professional Networking(Likedln)
+	+Sharing content(Instagram,Youtube)
+	+Finding answers
+	+Finding and organizing items
+-API
+	+Application Programming Interface
+	+Web API
+	+RESTFUL API
+-Open Authorization(OAuth)
+-Three legged
+-Supervised learning
+	+ Naive Bayes
+	+Support Vector Machine
+	+Netural Networks
+	+Training data
+	+Test Data
+	+Label or target
+Unsupervised learning
+	+scikit-learn
